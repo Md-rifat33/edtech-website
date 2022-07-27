@@ -6,9 +6,6 @@ ul li {
   margin-right: 22px;
 }
 
-.carousel_item {
-  background-image: url(../images/cover/cover-1.png);
-  background-size: cover;
-  background-position: center;
-  height: 700px;
-}
+/* .slider_caption {
+  margin-bottom: 100px;
+} */
