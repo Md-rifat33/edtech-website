@@ -1,7 +1,14 @@
 .list_items {
-  margin-left: 280px;
+  margin-left: 270px;
 }
 
 ul li {
   margin-right: 22px;
+}
+
+.carousel_item {
+  background-image: url(../images/cover/cover-1.png);
+  background-size: cover;
+  background-position: center;
+  height: 700px;
 }
