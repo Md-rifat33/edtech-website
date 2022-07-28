@@ -9,3 +9,8 @@ ul li {
 .discover_title {
   font-size: 60px;
 }
+
+.last_part {
+  background-color: black;
+  min-height: 300px;
+}
