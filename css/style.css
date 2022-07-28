@@ -6,6 +6,10 @@ ul li {
   margin-right: 22px;
 }
 
+.carousel_description {
+  margin-bottom: 100px;
+}
+
 .discover_title {
   font-size: 60px;
 }
